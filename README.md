@@ -55,8 +55,8 @@
 <div align="center">
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=WenjunLi2004&show_icons=true&theme=radical" alt="Wenjun's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenjunLi2004&layout=compact&theme=radical" alt="Top Langs" />
+    <img src="https://stats.justsong.cn/api?username=WenjunLi2004&show_icons=true&theme=radical" alt="Wenjun's GitHub Stats" />
+    <img src="https://stats.justsong.cn/api/top-langs/?username=WenjunLi2004&layout=compact&theme=radical" alt="Top Langs" />
   </p>
 
   <p>
