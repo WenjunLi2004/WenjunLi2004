@@ -54,14 +54,14 @@
 
 <div align="center">
 
-  <p>
+  <!-- <p>
     <img src="https://stats.justsong.cn/api?username=WenjunLi2004&show_icons=true&theme=radical" alt="Wenjun's GitHub Stats" />
     <img src="https://stats.justsong.cn/api/top-langs/?username=WenjunLi2004&layout=compact&theme=radical" alt="Top Langs" />
   </p>
 
   <p>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WenjunLi2004&theme=radical&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-  </p>
+  </p> -->
 
 </div>
 
