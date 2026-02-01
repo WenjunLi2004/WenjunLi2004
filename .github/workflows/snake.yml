@@ -32,4 +32,5 @@ jobs:
           git config user.email github-actions@github.com
           git add profile-snake-contrib
           git commit -m "generated snake" || echo "no changes"
+          git pull --rebase origin main
           git push
