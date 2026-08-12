@@ -17,7 +17,7 @@
 - 🤖 Focus: **Embodied AI** · 具身智能
 - 🎓 CS undergraduate @ Shenzhen University · 深圳大学
 - 🔬 Into deep learning, robotics & agents that act in the real world
-- ⚡ Coding for fun, building for real · 写代码图开心,做东西要落地
+- ⚡ Coding for fun, building for real
 
 ## 🛠️ Tech Stack · 技能栈
 
